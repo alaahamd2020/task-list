@@ -15,11 +15,6 @@
             color: red;
             font-size: small;
         }
-
-        .home {
-            margin: auto;
-
-        }
     </style>
     {{-- blade-formatter-disable --}}
     <style type="text/tailwindcss">
