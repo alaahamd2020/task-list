@@ -36,7 +36,7 @@
     {{-- blade-formatter-enable --}}
 </head>
 
-<body class="container max-w-lg mx-auto mt-10 mb-10">
+<body class="container max-w-lg px-5 py-5 mx-auto mt-10 mb-10">
 
 
     <div>
